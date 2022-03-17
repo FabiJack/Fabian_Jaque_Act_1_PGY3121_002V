@@ -1,0 +1,12 @@
+body {
+    background-color: antiquewhite;
+    text-align: center;
+}
+img {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    border: solid 10px;
+    padding: 2px;
+    transform: rotate(45deg);
+}
