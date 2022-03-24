@@ -22,6 +22,12 @@ a {
   font-size: x-large;
 }
 
+.ul_to_Right {
+  margin-left: 230px;
+  padding-left: 230px;
+  list-style-type: none;
+}
+
 .center{
   margin: auto;
   width: 50%;
@@ -38,6 +44,7 @@ a {
     margin: 10px;
     border: solid 10px;
     padding: 2px;
+    float: left;
   }
 
 .small_Img {
