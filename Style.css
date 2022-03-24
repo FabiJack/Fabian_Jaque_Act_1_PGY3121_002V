@@ -1,0 +1,44 @@
+body {
+    font-family: Arial;
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+p {
+    border: solid 2.5px;
+}
+
+table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+    border-radius: 80px;
+  }
+
+.center{
+    margin: auto;
+    text-align: center;
+}
+
+.bigWords {
+    font-size: 50px;
+  }
+
+.bigImg {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    border: solid 10px;
+    padding: 2px;
+  }
+
+.smallImg {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    border: solid 10px;
+    padding: 2px;
+  }
