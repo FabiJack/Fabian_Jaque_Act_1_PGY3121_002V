@@ -1,0 +1,15 @@
+.total_div {
+    display: flex;
+    flex-direction: row;
+}
+
+.nav_div {
+    height: 100%;
+    width: 20%;
+    list-style-type: none;
+}
+
+.section_div {
+    display: flex;
+    flex-direction: column;
+}
