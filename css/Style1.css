@@ -1,6 +1,7 @@
 body {
     font-family: sans-serif;
-    background-color: whitesmoke;
+    background-color: rgb(54, 48, 48);
+    color: white;
 }
 
 h1, h2 {
@@ -8,7 +9,7 @@ h1, h2 {
 }
 
 p {
-    border: 3px solid black;
+    border: 3px solid white;
     padding: 15px;
 }
 
@@ -20,6 +21,11 @@ table, th, td {
 a {
   text-decoration: none;
   font-size: x-large;
+  color: white;
+}
+
+button {
+  background-color: rgb(73, 73, 73);
 }
 
 .ul_to_Right {
@@ -29,7 +35,8 @@ a {
 }
 
 .center{
-  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
   width: 50%;
   padding: 10px;
 }
